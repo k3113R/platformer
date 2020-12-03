@@ -1,0 +1,26 @@
+Platformer game controlled by keyboard with multiple levels and different game mechanics
+
+
+    *menu system
+    *level loader
+
+
+  different blocks for different abilities
+  ex:
+    jump higher
+    move faster
+    coins?
+    easter egg (passable blocks)
+
+  big levels
+  grid based
+  create levels as text documents render levels with sprites will need sprite for each block and enemy type
+  hill climber
+  yeti monsters
+  physics
+  I.e:
+    jump
+    fall
+    velocity
+
+scrolling? How far will player be able to see at a time?
